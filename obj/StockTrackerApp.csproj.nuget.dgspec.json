@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning\\StockTrackerApp\\StockTrackerApp.csproj": {}
+    "E:\\Learning\\StockTrackerApp - git\\StockTrackerApp\\StockTrackerApp.csproj": {}
   },
   "projects": {
-    "E:\\Learning\\StockTrackerApp\\StockTrackerApp.csproj": {
+    "E:\\Learning\\StockTrackerApp - git\\StockTrackerApp\\StockTrackerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning\\StockTrackerApp\\StockTrackerApp.csproj",
+        "projectUniqueName": "E:\\Learning\\StockTrackerApp - git\\StockTrackerApp\\StockTrackerApp.csproj",
         "projectName": "StockTrackerApp",
-        "projectPath": "E:\\Learning\\StockTrackerApp\\StockTrackerApp.csproj",
+        "projectPath": "E:\\Learning\\StockTrackerApp - git\\StockTrackerApp\\StockTrackerApp.csproj",
         "packagesPath": "C:\\Users\\Raja\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning\\StockTrackerApp\\obj\\",
+        "outputPath": "E:\\Learning\\StockTrackerApp - git\\StockTrackerApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raja\\AppData\\Roaming\\NuGet\\NuGet.Config"

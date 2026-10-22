@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5r9s4GR37bA=",
+  "dgSpecHash": "Mqb6l0bLeHI=",
   "success": true,
-  "projectFilePath": "E:\\Learning\\StockTrackerApp\\StockTrackerApp.csproj",
+  "projectFilePath": "E:\\Learning\\StockTrackerApp - git\\StockTrackerApp\\StockTrackerApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Raja\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\Raja\\.nuget\\packages\\masstransit\\8.5.11\\masstransit.8.5.11.nupkg.sha512",
-    "C:\\Users\\Raja\\.nuget\\packages\\masstransit.abstractions\\8.5.11\\masstransit.abstractions.8.5.11.nupkg.sha512",
-    "C:\\Users\\Raja\\.nuget\\packages\\masstransit.rabbitmq\\8.5.11\\masstransit.rabbitmq.8.5.11.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\masstransit\\8.5.12\\masstransit.8.5.12.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\masstransit.abstractions\\8.5.12\\masstransit.abstractions.8.5.12.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\masstransit.rabbitmq\\8.5.12\\masstransit.rabbitmq.8.5.12.nupkg.sha512",
     "C:\\Users\\Raja\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
     "C:\\Users\\Raja\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
     "C:\\Users\\Raja\\.nuget\\packages\\microsoft.codeanalysis.common\\5.0.0\\microsoft.codeanalysis.common.5.0.0.nupkg.sha512",

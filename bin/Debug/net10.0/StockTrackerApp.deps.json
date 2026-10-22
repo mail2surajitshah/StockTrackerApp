@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "StockTrackerApp/1.0.0": {
         "dependencies": {
-          "MassTransit.RabbitMQ": "8.5.11",
+          "MassTransit.RabbitMQ": "8.5.12",
           "Microsoft.EntityFrameworkCore.Design": "10.0.12",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.3"
         },
@@ -24,34 +24,34 @@
           }
         }
       },
-      "MassTransit/8.5.11": {
+      "MassTransit/8.5.12": {
         "dependencies": {
-          "MassTransit.Abstractions": "8.5.11"
+          "MassTransit.Abstractions": "8.5.12"
         },
         "runtime": {
           "lib/net10.0/MassTransit.dll": {
-            "assemblyVersion": "8.5.11.0",
-            "fileVersion": "8.5.11.0"
+            "assemblyVersion": "8.5.12.0",
+            "fileVersion": "8.5.12.0"
           }
         }
       },
-      "MassTransit.Abstractions/8.5.11": {
+      "MassTransit.Abstractions/8.5.12": {
         "runtime": {
           "lib/net10.0/MassTransit.Abstractions.dll": {
-            "assemblyVersion": "8.5.11.0",
-            "fileVersion": "8.5.11.0"
+            "assemblyVersion": "8.5.12.0",
+            "fileVersion": "8.5.12.0"
           }
         }
       },
-      "MassTransit.RabbitMQ/8.5.11": {
+      "MassTransit.RabbitMQ/8.5.12": {
         "dependencies": {
-          "MassTransit": "8.5.11",
+          "MassTransit": "8.5.12",
           "RabbitMQ.Client": "7.2.2"
         },
         "runtime": {
           "lib/net10.0/MassTransit.RabbitMqTransport.dll": {
-            "assemblyVersion": "8.5.11.0",
-            "fileVersion": "8.5.11.0"
+            "assemblyVersion": "8.5.12.0",
+            "fileVersion": "8.5.12.0"
           }
         }
       },
@@ -531,26 +531,26 @@
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
     },
-    "MassTransit/8.5.11": {
+    "MassTransit/8.5.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-zQDMTrxSfZDseZerNZV16K+TO2XOQYKUl+l/CoaJFjzzl2M+1ZVY7F5i8srnVP034fiX69vzaQxEup2GSK38kw==",
-      "path": "masstransit/8.5.11",
-      "hashPath": "masstransit.8.5.11.nupkg.sha512"
+      "sha512": "sha512-qpesi9ZPcT3+1w7HLw4rtkS0MRiX90WSaFNp3CXdaTGKhdmZn3nIozysvEpdoVfLM4Bwq9Kx7okGxRvLBY9Qcw==",
+      "path": "masstransit/8.5.12",
+      "hashPath": "masstransit.8.5.12.nupkg.sha512"
     },
-    "MassTransit.Abstractions/8.5.11": {
+    "MassTransit.Abstractions/8.5.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-NVPW88Ge9vFlPboZCDTDsXKUOJygD76HAA3JBIC68XVFWzJ4X2mxDx20jCoFeA3xU9dj3jnNAvHwvIcEuc6zRg==",
-      "path": "masstransit.abstractions/8.5.11",
-      "hashPath": "masstransit.abstractions.8.5.11.nupkg.sha512"
+      "sha512": "sha512-NauNyaQsJVfLSY3Jw/zr26POQpEnfjerHCrrK3kUmkCDIpC63PZD1AjihGFgq0KH5eGagMJ7GRHN74w8mI69Kg==",
+      "path": "masstransit.abstractions/8.5.12",
+      "hashPath": "masstransit.abstractions.8.5.12.nupkg.sha512"
     },
-    "MassTransit.RabbitMQ/8.5.11": {
+    "MassTransit.RabbitMQ/8.5.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-68a2b831qC8UKbw3aaC0CJs+xIevuNQMy5zA8qHbWBFYJho/bRxMJ+lHUgBByU6Pi994IGyE21pC2y6RqMC4kQ==",
-      "path": "masstransit.rabbitmq/8.5.11",
-      "hashPath": "masstransit.rabbitmq.8.5.11.nupkg.sha512"
+      "sha512": "sha512-j8MQni+zMmUpAQ8VKIcuBakJ2ptZy0wSahd1LCVyRUvFrI8Bg0YtFsRk6w0/R1hdD3u0TuMvPKQAaNIZe8nSxQ==",
+      "path": "masstransit.rabbitmq/8.5.12",
+      "hashPath": "masstransit.rabbitmq.8.5.12.nupkg.sha512"
     },
     "Microsoft.Build.Framework/18.0.2": {
       "type": "package",
